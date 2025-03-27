@@ -1,0 +1,143 @@
+{
+  "document": {
+    "blocks": {
+      "15Oan5": {
+        "children": "JR7da1",
+        "data": "{}",
+        "external_id": "QzsT1q",
+        "external_type": "text",
+        "id": "15Oan5",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "7c590f03-005a-51d5-9959-b805aca7f148": {
+        "children": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "data": "{}",
+        "external_id": null,
+        "external_type": null,
+        "id": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "parent": "",
+        "ty": "page"
+      },
+      "9fxhV7": {
+        "children": "eFGskq",
+        "data": "{\"url\":\"https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/eu-civil-protection-mechanism_en\"}",
+        "external_id": null,
+        "external_type": null,
+        "id": "9fxhV7",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "link_preview"
+      },
+      "JvbF7S": {
+        "children": "mDP1zB",
+        "data": "{}",
+        "external_id": "9fRQ4b",
+        "external_type": "text",
+        "id": "JvbF7S",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "LCRwaI": {
+        "children": "L-rk5R",
+        "data": "{}",
+        "external_id": "1B4Z-7",
+        "external_type": "text",
+        "id": "LCRwaI",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "W5lMaW": {
+        "children": "hN77yH",
+        "data": "{}",
+        "external_id": "Cn3Npu",
+        "external_type": "text",
+        "id": "W5lMaW",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "ZBMUS4": {
+        "children": "ginuzX",
+        "data": "{}",
+        "external_id": "Tc0XkR",
+        "external_type": "text",
+        "id": "ZBMUS4",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "e4SX3G": {
+        "children": "l_HDPT",
+        "data": "{}",
+        "external_id": "O3pTHf",
+        "external_type": "text",
+        "id": "e4SX3G",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "lSaWoc": {
+        "children": "FFkbdJ",
+        "data": "{}",
+        "external_id": "JS1Uav",
+        "external_type": "text",
+        "id": "lSaWoc",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "oEg-A3": {
+        "children": "efeTKm",
+        "data": "{}",
+        "external_id": "YyOkEV",
+        "external_type": "text",
+        "id": "oEg-A3",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      },
+      "ujyPS0": {
+        "children": "sZnM3h",
+        "data": "{}",
+        "external_id": "6r9faM",
+        "external_type": "text",
+        "id": "ujyPS0",
+        "parent": "7c590f03-005a-51d5-9959-b805aca7f148",
+        "ty": "paragraph"
+      }
+    },
+    "meta": {
+      "children_map": {
+        "7c590f03-005a-51d5-9959-b805aca7f148": [
+          "W5lMaW",
+          "lSaWoc",
+          "LCRwaI",
+          "oEg-A3",
+          "ZBMUS4",
+          "JvbF7S",
+          "e4SX3G",
+          "9fxhV7",
+          "15Oan5",
+          "ujyPS0"
+        ],
+        "FFkbdJ": [],
+        "JR7da1": [],
+        "L-rk5R": [],
+        "eFGskq": [],
+        "efeTKm": [],
+        "ginuzX": [],
+        "hN77yH": [],
+        "l_HDPT": [],
+        "mDP1zB": [],
+        "sZnM3h": []
+      },
+      "text_map": {
+        "1B4Z-7": "https://beta.appflowy.cloud/api/workspace/b2d11122-1fc8-474d-9ef1-ec12fea7ffe8/page-view/9cf9aa3c-f586-4aa2-9d0a-72251e524055/duplicate",
+        "6r9faM": "",
+        "9fRQ4b": "https://www.consilium.europa.eu/en/european-council/president/",
+        "Cn3Npu": "Failed to load resource: the server responded with a status of 404 () https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u31.svg",
+        "JS1Uav": "",
+        "O3pTHf": "https://www.consilium.europa.eu/en/european-council/president/",
+        "QzsT1q": "abc",
+        "Tc0XkR": "https://www.consilium.europa.eu/en/european-council/president/",
+        "YyOkEV": ""
+      }
+    },
+    "page_id": "7c590f03-005a-51d5-9959-b805aca7f148"
+  }
+}

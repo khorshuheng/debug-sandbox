@@ -1,0 +1,9 @@
+[package]
+name = "debug-sandbox"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+yrs = { version = "0.21.3", features = ["sync"] }
+serde = { version = "1.0.195", features = ["derive"] }
+serde_json = "1.0.111"
